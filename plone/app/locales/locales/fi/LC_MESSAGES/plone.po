@@ -26,7 +26,7 @@ msgstr ""
 
 #: plone.locking/plone/locking/browser/locking.py:160
 msgid "$d day and $h hours"
-msgstr "$d päivä ja $h tuntia"
+msgstr "$d päivää ja $h tuntia"
 
 #: plone.locking/plone/locking/browser/locking.py:162
 msgid "$d days and $h hours"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: plone.app.content/plone/app/content/browser/contents/__init__.py:112
 msgid "${items} could not be found"
-msgstr ""
+msgstr "${items} ei löydetty"
 
 #: plone.app.event/plone/app/event/portlets/portlet_calendar.pt:24
 msgid "${monthname} ${year}"
@@ -79,7 +79,7 @@ msgstr "${text_logged_out_link} ja klikkaa avautuvassa autentikointi-ikkunassa '
 
 #: plone.app.content/plone/app/content/browser/contents/copy.py:41
 msgid "${title} cannot be copied."
-msgstr ""
+msgstr "{title} ei voitu kopioida."
 
 #: plone.app.content/plone/app/content/browser/actions.py:302
 msgid "${title} copied."
@@ -95,7 +95,7 @@ msgstr "${title} on poistettu."
 
 #: plone.app.content/plone/app/content/browser/contents/cut.py:41
 msgid "${title} is being edited and cannot be cut."
-msgstr ""
+msgstr "${title} on muokattavana, joten sitä ei voi leikata."
 
 #: plone.app.content/plone/app/content/browser/actions.py:252
 msgid "${title} is locked and cannot be cut."
@@ -115,7 +115,7 @@ msgstr "${title} ei ole siirrettävissä."
 
 #: plone.schemaeditor/plone/schemaeditor/interfaces.py:154
 msgid "'${name}' is a reserved field name."
-msgstr ""
+msgstr "${name}' on varattu kentän nimi."
 
 #: plone.app.caching/plone/app/caching/browser/controlpanel.pt:328
 msgid "(Required)"
@@ -123,28 +123,28 @@ msgstr "(Pakollinen)"
 
 #: plone.app.vocabularies/plone/app/vocabularies/skins.py:65
 msgid "(Unstyled)"
-msgstr "(Tyylitön)"
+msgstr "(Tyylittämätön)"
 
 #: plone/app/theming/browser/controlpanel.pt:132
 msgid "(active)"
-msgstr ""
+msgstr "(aktiivinen)"
 
 #: plone.batching/plone/batching/batchnavigation.pt:51
 msgid "(current)"
-msgstr ""
+msgstr "(nykyinen)"
 
 #: plone.app.users/plone/app/users/schema.py:54
 msgid "(protected)"
-msgstr ""
+msgstr "(suojattu)"
 
 #: plone/app/theming/browser/controlpanel.pt:131
 msgid "(this theme overrides a filesystem theme)"
-msgstr ""
+msgstr "(tämä teema yliajaa aiemman teeman)"
 
 #. Default: "- An intranet workflow where content is only accessible if you are logged in. - Basic states are: Internal Draft, Pending Review, Internally Published and Private. - Also has an Externally Published state, so you can make selected content available to people outside the intranet."
 #: CMFPlone/profiles/default/workflows/intranet_workflow/definition.xml
 msgid "- An intranet workflow where content is only accessible if you are logged in. - Basic states are: Internal Draft, Pending Review, Internally Published and Private. - Also has an Externally Published state, so you can make selected content available to people outside the intranet."
-msgstr "- Intranet-työnkulku - sisältö näytetään ainoastaan kirjautuneille käyttäjille. -  Oletusarvoiset tilat ovat: Sisäinen luonnos,Odottaa tarkastusta, Sisäisesti julkaistu ja Yksityinen. - Sisältää myös tilan Ulkoisesti julkaistu, jolloin kohde näkyy myös intranetin ulkopuolisille lukijoille, jotka eivät ole kirjautuneet sisään."
+msgstr "- Intranet-työnkulku - sisältö näytetään ainoastaan kirjautuneille käyttäjille. -  Oletusarvoiset tilat ovat: Sisäinen luonnos, Odottaa tarkastusta, Sisäisesti julkaistu ja Yksityinen. - Sisältää myös tilan Ulkoisesti julkaistu, jolloin kohde näkyy myös intranetin ulkopuolisille lukijoille, jotka eivät ole kirjautuneet sisään."
 
 #. Default: "- Essentially a workflow with no transitions, but has a Published state, so portlets and applications that expect that state will continue to work."
 #: CMFPlone/profiles/default/workflows/one_state_workflow/definition.xml
@@ -202,7 +202,7 @@ msgstr "Klassinen sovelma mahdollistaa perinteisten sovelmamallien käytön."
 
 #: plone.app.discussion/plone/app/discussion/comment.py:363
 msgid "A comment has been posted."
-msgstr ""
+msgstr "Kommentti on lisätty."
 
 #: plone.app.discussion/plone/app/discussion/interfaces.py:154
 msgid "A comment id unique to this conversation"
@@ -214,7 +214,7 @@ msgstr "Kopiointitoiminto voi kopioida kohteen toiseen kansioon."
 
 #: plone.app.caching/plone/app/caching/caching.zcml:75
 msgid "A dynamic feed, e.g. using RSS or ATOM"
-msgstr ""
+msgstr "Dynaaminen syöte, esim. RSS tai ATOM"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/fileextension.py:91
 msgid "A file extension condition can restrict a rule from executing unless the target is a File with a particular extension."
@@ -222,7 +222,7 @@ msgstr "Tiedostopääte-ehto voi rajoittaa sääntöä toimimasta, paitsi jos ko
 
 #: plone.resource/plone/resource/profiles.zcml:14
 msgid "A folder for storing and serving static resource files"
-msgstr ""
+msgstr "Kansio staattisten resurssien tarjoamiseksi"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/group.py:82
 msgid "A group condition can prevent a rule from executing unless the current user is a member of a particular group."
@@ -230,7 +230,7 @@ msgstr "Ryhmäehto voi estää sääntöä toimimasta, ellei nykyinen käyttäj�
 
 #: CMFPlone/interfaces/controlpanel.py:203
 msgid "A list of valid tags which will be not filtered out."
-msgstr ""
+msgstr "Lista sallittuja elementtejä, joita ei suodateta pois."
 
 #: plone.app.contentrules/plone/app/contentrules/actions/logger.py:119
 msgid "A logger action can output a message to the system log."
@@ -242,7 +242,7 @@ msgstr "Postitoiminto voi lähettää postia useille vastaanottajille."
 
 #: CMFPlone/browser/contact_info.py:91
 msgid "A mail has now been sent to the site administrator regarding your questions and/or comments."
-msgstr ""
+msgstr "Pääkäyttäjälle on lähetetty sähköpostia pyyntöäsi koskien."
 
 #: plone.app.contentrules/plone/app/contentrules/actions/move.py:167
 msgid "A move action can move an object to a different folder."
@@ -270,7 +270,7 @@ msgstr "RSS-syötteen näyttävä sovelma."
 
 #: plone.app.event/plone/app/event/profiles/default/portlets.xml
 msgid "A portlet which can render a calendar."
-msgstr ""
+msgstr "Kalenterisovelma"
 
 #: CMFPlone/profiles/dependencies/portlets.xml
 msgid "A portlet which can render a classic template-based portlet"
@@ -278,7 +278,7 @@ msgstr "Vanhan sivupohja-tyyppisen sovelman näyttävä sovelma"
 
 #: plone.app.event/plone/app/event/profiles/default/portlets.xml
 msgid "A portlet which can render a listing of recent events"
-msgstr ""
+msgstr "Sovelma, joka näyttää listan ajankohtaisista tapahtumista"
 
 #: CMFPlone/profiles/dependencies/portlets.xml
 msgid "A portlet which can render a listing of recent news"
@@ -326,15 +326,15 @@ msgstr "Rooliehdo voi estää sääntöä toimimasta ellei nykyisellä käyttäj
 
 #: CMFPlone/browser/templates/plone-addsite.pt:69
 msgid "A short title for the site. This will be shown as part of the title of the browser window on each page."
-msgstr ""
+msgstr "Lyhyt otsikko sivustolle. Näytetään osana selainikkunan otsikkoa joisella sivulla."
 
 #: plone.portlet.static/plone/portlet/static/configure.zcml:16
 msgid "A simple portlet that displays static HTML"
-msgstr ""
+msgstr "Sovelma, joka näyttää staattista HTML:ää"
 
 #: plone.app.discussion/plone/app/discussion/profiles/default/workflows/comment_review_workflow/definition.xml
 msgid "A simple review workflow for comments"
-msgstr ""
+msgstr "Yksinkertainen hyväksymistyönkulku kommenteille"
 
 #: CMFPlone/interfaces/controlpanel.py:1528
 msgid "A value for the quality of 2x high pixel density images, from 1 (lowest) to 95 (highest). A value of 0 will mean plone.scaling's default will be used, which is currently 62."
@@ -370,11 +370,11 @@ msgstr ""
 #: plone.app.querystring/plone/app/querystring/profiles/default/registry.xml
 #: plone.app.querystring/plone/app/querystring/profiles/upgrades/to_5/registry.xml
 msgid "Absolute path"
-msgstr ""
+msgstr "Absoluuttinen polku"
 
 #: plone/app/theming/interfaces.py:56
 msgid "Absolute prefix"
-msgstr ""
+msgstr "Absoluuttinen etuliite"
 
 #. Default: "Accessibility"
 #: CMFPlone/profiles/default/actions.xml
@@ -383,7 +383,7 @@ msgstr "Saavutettavuus"
 
 #: CMFPlone/controlpanel/browser/actions.py:170
 msgid "Action Settings"
-msgstr ""
+msgstr "Toimintojen asetukset"
 
 #: plone.app.contentrules/plone/app/contentrules/browser/elements.py:66
 msgid "Action deleted."
@@ -400,15 +400,15 @@ msgstr "Toiminto siirretty ylös."
 #: CMFPlone/profiles/default/controlpanel.xml
 #: CMFPlone/profiles/dependencies/portlets.xml
 msgid "Actions"
-msgstr ""
+msgstr "Toiminnot"
 
 #: plone.app.portlets/plone/app/portlets/portlets/actions.py:92
 msgid "Actions portlet"
-msgstr ""
+msgstr "Toiminnot-sovelma"
 
 #: plone/app/theming/browser/controlpanel.pt:158
 msgid "Activate"
-msgstr ""
+msgstr "Aktivoi"
 
 #: CMFPlone/controlpanel/browser/quickinstaller.pt:161
 msgid "Activated add-ons"
@@ -426,7 +426,7 @@ msgstr "Lisää ${name}"
 
 #: plone.app.event/plone/app/event/portlets/portlet_calendar.py:303
 msgid "Add Calendar Portlet"
-msgstr ""
+msgstr "Lisää kalenterisovelma"
 
 #: plone.app.portlets/plone/app/portlets/portlets/classic.py:59
 msgid "Add Classic Portlet"
@@ -434,7 +434,7 @@ msgstr "Lisää klassinen sovelma"
 
 #: plone.app.dexterity/plone/app/dexterity/browser/add_type.py:31
 msgid "Add Content Type"
-msgstr ""
+msgstr "Lisää sisältötyyppi"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/portaltype.py:95
 msgid "Add Content Type Condition"
@@ -446,7 +446,7 @@ msgstr "Lisää kopiointitoiminto"
 
 #: plone.app.event/plone/app/event/portlets/portlet_events.py:223
 msgid "Add Events Portlet"
-msgstr ""
+msgstr "Lisää tapahtumasovelma"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/fileextension.py:90
 msgid "Add File Extension Condition"
@@ -474,7 +474,7 @@ msgstr "Lisää navigointisovelma"
 
 #: plone.app.dexterity/plone/app/dexterity/browser/types_listing.pt:22
 msgid "Add New Content Type&hellip;"
-msgstr ""
+msgstr "Lisää uusi sisältötyyppi"
 
 #: plone.dexterity/plone/dexterity/browser/add.py:125
 msgid "Add New Item operation cancelled"
@@ -490,7 +490,7 @@ msgstr "Lisää huomautustoiminto"
 
 #: CMFPlone/browser/templates/plone-overview.pt:77
 msgid "Add Plone site"
-msgstr ""
+msgstr "Lisää Plone-sivusto"
 
 #: plone.app.portlets/plone/app/portlets/portlets/rss.py:359
 msgid "Add RSS Portlet"
@@ -522,7 +522,7 @@ msgstr "Lisää TALES lausekkeen ehto"
 
 #: plone.app.contentrules/plone/app/contentrules/actions/versioning.py:71
 msgid "Add Versioning Action"
-msgstr ""
+msgstr "Lisää versiointitoiminto"
 
 #: plone.app.contentrules/plone/app/contentrules/actions/workflow.py:92
 msgid "Add Workflow Action"
@@ -546,15 +546,15 @@ msgstr "Lisää uusi sääntö. Kun olet valmis, voit hallita säännön toimint
 
 #: plone.schemaeditor/plone/schemaeditor/browser/schema/add_field.py:28
 msgid "Add new field"
-msgstr ""
+msgstr "Lisää uusi kenttä"
 
 #: plone.schemaeditor/plone/schemaeditor/browser/schema/add_fieldset.py:21
 msgid "Add new fieldset"
-msgstr ""
+msgstr "Lisää uusi kenttäjoukko"
 
 #: CMFPlone/controlpanel/browser/usergroups_usermembership.pt:194
 msgid "Add user to selected groups"
-msgstr ""
+msgstr "Lisää käyttäjä valittuihin ryhmiin"
 
 #: CMFPlone/PloneControlPanel.py:73
 msgid "Add-on Configuration"
@@ -573,7 +573,7 @@ msgstr "Lisäosat"
 
 #: plone.app.iterate/plone/app/iterate/browser/diff.pt:109
 msgid "Added files"
-msgstr ""
+msgstr "Lisätyt tiedostot"
 
 #: plone.app.versioningbehavior/plone/app/versioningbehavior/configure.zcml:59
 msgid "Adds CMFEditions support for Dexterity."
@@ -589,11 +589,11 @@ msgstr ""
 
 #: plone.app.contenttypes/plone/app/contenttypes/behaviors/configure.zcml:37
 msgid "Adds a table of contents"
-msgstr ""
+msgstr "Lisää sisällysluettelon"
 
 #: plone.app.contenttypes/plone/app/contenttypes/behaviors/configure.zcml:47
 msgid "Adds collection behavior"
-msgstr ""
+msgstr "Lisää kokoelmaominaisuuden"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/configure.zcml:44
 msgid "Adds creator, contributor, and rights fields."
@@ -601,27 +601,27 @@ msgstr ""
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/configure.zcml:36
 msgid "Adds effective date and expiration date fields."
-msgstr ""
+msgstr "Lisää voimaantulo- ja vanhenemispäivä -kentät."
 
 #: plone.app.contenttypes/plone/app/contenttypes/behaviors/configure.zcml:19
 msgid "Adds image and image caption fields"
-msgstr ""
+msgstr "Lisää kuva- ja kuvateksti -kentät"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/configure.zcml:28
 msgid "Adds keywords and language fields."
-msgstr ""
+msgstr "Lisää avainsana- ja kielivalinta -kentät"
 
 #: plone.app.contenttypes/plone/app/contenttypes/behaviors/configure.zcml:58
 msgid "Adds richtext behavior"
-msgstr ""
+msgstr "Lisää muokattavan tekstikentän"
 
 #: plone.app.iterate/plone/app/iterate/configure.zcml:66
 msgid "Adds sample content types for testing"
-msgstr ""
+msgstr "Lisää esimerkkisisältöä testaamista varten"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/configure.zcml:56
 msgid "Adds standard metadata fields (equals Basic metadata + Categorization + Effective range + Ownership)"
-msgstr ""
+msgstr "Lisää tavanomaiset metadata-kentät"
 
 #: plone.app.z3cform/plone/app/z3cform/profiles.zcml:15
 msgid "Adds support for rendering z3c.form forms in Plone"
@@ -629,7 +629,7 @@ msgstr "Lisää z3c.forms lomakkeiden tuen Ploneen"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/configure.zcml:20
 msgid "Adds title and description fields."
-msgstr ""
+msgstr "Lisää otsikon ja kuvauskentän."
 
 #: plone.app.iterate/plone/app/iterate/configure.zcml:34
 msgid "Adds working copy support (aka. in-place staging) to Plone."
@@ -639,11 +639,11 @@ msgstr "Lisää Ploneen tuen työkopioille."
 #: CMFPlone/browser/templates/plone-overview.pt:105
 #: CMFPlone/controlpanel/browser/tinymce.py:30
 msgid "Advanced"
-msgstr ""
+msgstr "Edistynyt"
 
 #: plone/app/theming/browser/controlpanel.pt:336
 msgid "Advanced settings"
-msgstr ""
+msgstr "Edistyneet asetukset"
 
 #: plone.app.querystring/plone/app/querystring/profiles/default/registry.xml
 #: plone.app.querystring/plone/app/querystring/profiles/upgrades/to_11/registry.xml
@@ -652,7 +652,7 @@ msgstr ""
 
 #: plone.app.querystring/plone/app/querystring/profiles/default/registry.xml
 msgid "After date"
-msgstr ""
+msgstr "Päivämäärän jälkeen"
 
 #: plone/app/multilingual/browser/migrator.py:102
 msgid "After migration relation cleanup"
@@ -661,15 +661,15 @@ msgstr "Korjaa viittaukset sisällössä migraation jälkeen"
 #: plone.app.querystring/plone/app/querystring/profiles/default/registry.xml
 #: plone.app.querystring/plone/app/querystring/profiles/upgrades/to_11/registry.xml
 msgid "After relative Date"
-msgstr ""
+msgstr "Suhtellisen päivämäärän jälkeen"
 
 #: CMFPlone/interfaces/controlpanel.py:986
 msgid "After successful password reset the user will be logged in automatically."
-msgstr ""
+msgstr "Onnistuneen salasanan asettamisen jälkeen käyttäjä kirjataan sisään automaattisesti."
 
 #: plone.app.querystring/plone/app/querystring/profiles/default/registry.xml
 msgid "After the current day"
-msgstr ""
+msgstr "Meneillään olevan päivän jälkeen"
 
 #: CMFPlone/interfaces/controlpanel.py:583
 msgid "After the deadline (FLOSS)"
@@ -677,15 +677,15 @@ msgstr ""
 
 #: plone.app.querystring/plone/app/querystring/profiles/default/registry.xml
 msgid "After today"
-msgstr ""
+msgstr "Tämän päivän jälkeen"
 
 #: plone.app.contenttypes/plone/app/contenttypes/browser/configure.zcml:44
 msgid "Album view"
-msgstr ""
+msgstr "Albuminäkymä"
 
 #: CMFPlone/interfaces/controlpanel.py:397
 msgid "Alignment styles"
-msgstr ""
+msgstr "Asetustyylit"
 
 #: plone.stringinterp/plone/stringinterp/adapters.py:93
 msgid "All Content"
@@ -698,7 +698,7 @@ msgstr "Kaikki sisältö"
 
 #: plone.app.event/plone/app/event/browser/event_summary.pt:54
 msgid "All dates"
-msgstr ""
+msgstr "Kaikki päivämäärät"
 
 #: CMFPlone/interfaces/controlpanel.py:952
 msgid "Allow anyone to view 'about' information"
@@ -707,35 +707,35 @@ msgstr "Salli kenen tahansa nähdä yleistiedot (about-linkki)"
 #: plone.app.dexterity/plone/app/dexterity/behaviors/configure.zcml:110
 #: plone.app.dexterity/plone/app/dexterity/behaviors/discussion.py:30
 msgid "Allow discussion"
-msgstr ""
+msgstr "Salli kommentointi"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/discussion.py:31
 msgid "Allow discussion for this content object."
-msgstr ""
+msgstr "Salli kommentointi tälle sisällölle."
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/configure.zcml:110
 msgid "Allow discussion on this item"
-msgstr ""
+msgstr "Salli kommentointi tälle kohteelle"
 
 #: CMFPlone/interfaces/controlpanel.py:1574
 msgid "Allow external login sites"
-msgstr ""
+msgstr "Salli ulkoiset kirjautumispalvelut"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/configure.zcml:90
 msgid "Allow items to be excluded from navigation"
-msgstr ""
+msgstr "Salli kohteiden piilottaminen navigoinnista"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/configure.zcml:102
 msgid "Allow items to have next previous navigation enabled"
-msgstr ""
+msgstr "Salli kohteille edellinen-seuraava -navigoinnin kytkeminen"
 
 #: CMFPlone/interfaces/syndication.py:154
 msgid "Allow syndication for collections and folders on site."
-msgstr ""
+msgstr "Salli syötteiden aktivointi kokoelmille ja kansioille."
 
 #: CMFPlone/interfaces/syndication.py:153
 msgid "Allowed"
-msgstr ""
+msgstr "Sallittu"
 
 #: plone.app.dexterity/plone/app/dexterity/interfaces.py:85
 msgid "Allowed Content Types"
@@ -5696,7 +5696,7 @@ msgstr "Välilyönnit eivät ole sallittu tunnisteissa"
 
 #: plone.app.discussion/plone/app/discussion/browser/moderation.py:31
 msgid "Spam"
-msgstr ""
+msgstr "Roskaposti"
 
 #: CMFPlone/profiles/default/types/TempFolder.xml
 msgid "Specialized folder for temporary data."
@@ -6921,7 +6921,7 @@ msgstr ""
 
 #: plone.app.contentrules/plone/app/contentrules/configure.zcml:102
 msgid "User Removed"
-msgstr ""
+msgstr "Käyttäjä poistettu"
 
 #: plone.app.users/plone/app/users/browser/register.py:721
 msgid "User added."
@@ -6929,11 +6929,11 @@ msgstr "Käyttäjä lisätty."
 
 #: CMFPlone/profiles/default/controlpanel.xml
 msgid "User and Group Settings"
-msgstr ""
+msgstr "Käyttäjä- ja ryhmäasetukset"
 
 #: CMFPlone/controlpanel/browser/controlpanel_usergroups_layout.pt:14
 msgid "User and Groups Settings"
-msgstr ""
+msgstr "Käyttäjä- ja ryhmäasetukset"
 
 #: CMFPlone/controlpanel/browser/controlpanel_usergroups_layout.pt:21
 msgid "User and groups settings for this site."
@@ -6941,7 +6941,7 @@ msgstr "Sivuston käyttäjä- ja ryhmäasetukset."
 
 #: CMFPlone/browser/templates/author.pt:63
 msgid "User portrait picture"
-msgstr ""
+msgstr "Käyttäjän profiilikuva"
 
 #: plone.app.contentrules/plone/app/contentrules/conditions/configure.zcml:160
 msgid "User's group"
@@ -6961,13 +6961,13 @@ msgstr ""
 
 #: plone.app.discussion/plone/app/discussion/interfaces.py:189
 msgid "Username of the commenter"
-msgstr ""
+msgstr "Kommentoijan käyttäjätunnus"
 
 #: CMFPlone/PloneControlPanel.py:69
 #: CMFPlone/controlpanel/browser/usergroups_usersoverview.pt:24
 #: CMFPlone/profiles/default/controlpanel.xml
 msgid "Users"
-msgstr ""
+msgstr "Käyttäjät"
 
 #. Default: "Users and Groups"
 #: CMFPlone/controlpanel/browser/usergroups.py:25
@@ -6978,11 +6978,11 @@ msgstr "Käyttäjät ja ryhmät"
 
 #: plone.app.discussion/plone/app/discussion/profiles/default/portal_atct.xml
 msgid "Users who have commented on the item"
-msgstr ""
+msgstr "Käyttäjät, jotka ovat kommentoineet kohdetta"
 
 #: CMFPlone/interfaces/controlpanel.py:202
 msgid "Valid tags"
-msgstr ""
+msgstr "Sallitut avainsanat"
 
 #: validation/validators/RegexValidator.py:47
 msgid "Validation failed($name): $value of type $type, expected 'string'"
@@ -7107,7 +7107,7 @@ msgstr "Näkyy kaikille, omistaja voi muokata."
 
 #: plone.app.discussion/plone/app/discussion/profiles/default/workflows/comment_review_workflow/definition.xml
 msgid "Visible to everyone, non-editable."
-msgstr ""
+msgstr "Näkyvissä kaikille, ei muokattavissa."
 
 #. Default: "Visible to everyone, not editable by the owner."
 #: CMFPlone/profiles/default/workflows/folder_workflow/definition.xml
@@ -7143,19 +7143,19 @@ msgstr "Varoitus"
 
 #: CMFPlone/browser/templates/plone-upgrade.pt:52
 msgid "Warning!"
-msgstr ""
+msgstr "Varoitus!"
 
 #: CMFPlone/interfaces/controlpanel.py:186
 msgid "Warning: disabling this can be dangerous. Only disable if you know what you are doing."
-msgstr ""
+msgstr "Varoitus: tämän kytkeminen pois päältä voi olla vaarallista. Kytke pois vain, jos tiedät mitä olet tekemässä."
 
 #: plone.app.users/plone/app/users/schema.py:83
 msgid "We will use this address if you need to recover your password"
-msgstr ""
+msgstr "Käytämme tätä osoitetta tarvittaessa salasanan palauttamiseksi"
 
 #: plone.app.caching/plone/app/caching/operations/default.py:246
 msgid "Weak caching"
-msgstr "Heikko välimuistin käyttö"
+msgstr "Kevyt välimuistin käyttö"
 
 #: CMFPlone/skins/plone_login/login_next.cpy:60
 msgid "Welcome! You are now logged in."
@@ -7257,7 +7257,7 @@ msgstr "Kyllä"
 
 #: plone.app.registry/plone/app/registry/browser/templates/delete_layout.pt:27
 msgid "Yes, delete"
-msgstr ""
+msgstr "Kyllä, poista"
 
 #: plone.app.content/plone/app/content/browser/contents/delete.py:85
 msgid "You are not authorized to delete ${title}."
@@ -7273,7 +7273,7 @@ msgstr ""
 
 #: CMFPlone/browser/templates/plone-admin-logged-out.pt:31
 msgid "You are now logged out."
-msgstr ""
+msgstr "Olet nyt kirjautunut ulos."
 
 #: CMFPlone/controlpanel/browser/quickinstaller.pt:41
 msgid "You are up to date. High fives."
@@ -14474,7 +14474,7 @@ msgstr "Lisää tänne"
 #. Default: "Add static text portlet"
 #: plone.portlet.static/plone/portlet/static/static.py:173
 msgid "title_add_static_portlet"
-msgstr "Lisää staattinen teksti sovelma"
+msgstr "Lisää staattinen tekstisovelma"
 
 #. Default: "Download this event in iCal format"
 #: plone.app.event/plone/app/event/browser/event_listing.pt:43
@@ -14784,7 +14784,7 @@ msgstr "Määritä tämän sivun kieli"
 #. Default: "Static text portlet"
 #: plone.portlet.static/plone/portlet/static/static.py:76
 msgid "title_static_portlet"
-msgstr "Staattinen teksti sovelma"
+msgstr "Staattinen tekstisovelma"
 
 #. Default: "Subscribe to an always-updated RSS feed."
 #: CMFPlone/browser/templates/search.pt:83
@@ -15113,7 +15113,7 @@ msgstr " "
 #. Default: "Yes"
 #: plone.app.content/plone/app/content/browser/contents/templates/properties.pt:38
 msgid "yes"
-msgstr ""
+msgstr "kyllä"
 
 #. Default: "Welcome! You are now logged in."
 #: CMFPlone/browser/login/login.py:179
